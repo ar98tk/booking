@@ -1,0 +1,21 @@
+*{
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+}
+.container .booking-summary .heading {
+     background-color: #000;
+     color: #FFF;
+     padding: 15px 0px;
+}
+.container .row .price {
+     background-color: #DC3545;
+     color: #FFF;
+     font-size: 18px;
+     font-weight: bold;
+}
+.container .row .done {
+     background-color: #daecc9;
+     font-size: 18px;
+     font-weight: bold;
+}
